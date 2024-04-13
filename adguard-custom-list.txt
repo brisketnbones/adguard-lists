@@ -1,2 +1,1 @@
 ||applytics.nordvpn.com^
-||m.stripe.network^
