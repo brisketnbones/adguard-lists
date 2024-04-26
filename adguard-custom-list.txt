@@ -1,2 +1,3 @@
 ||ans.mlb.com^
 ||applytics.nordvpn.com^
+||usage.truenas.com^
