@@ -1,3 +1,4 @@
 ||ans.mlb.com^
 ||applytics.nordvpn.com^
+||settings-win.data.microsoft.com^
 ||usage.truenas.com^
