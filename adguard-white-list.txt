@@ -1,1 +1,2 @@
-@@||pubads.g.doubleclick.net^
+! paramountplus live tv streaming
+@@||pubads.g.doubleclick.net^$important
