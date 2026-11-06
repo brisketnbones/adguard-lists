@@ -1,4 +1,6 @@
 ! paramountplus live tv streaming
 @@||pubads.g.doubleclick.net^$important
+@@||securepubads.g.doubleclick.net^$important
 @@||saa.paramountplus.com^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
+@@||cbsinteractive.data.adobedc.net^$important
